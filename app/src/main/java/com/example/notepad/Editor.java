@@ -32,7 +32,7 @@ public class Editor extends AppCompatActivity {
 
         else
         {
-            MainActivity.notes.add("");                // as initially, the note is empty
+            MainActivity.notes.add("");
             noteID = MainActivity.notes.size() - 1;
             MainActivity.arrayAdapter.notifyDataSetChanged();
         }

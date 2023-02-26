@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="monokia_pro_purple">#9E86C8</color>
+    <color name="monokia_pro_black">#0E0D0D</color>
+    <color name="monokia_pro_pink">#B05279</color>
+    <color name="monokia_pro_white">#D6D6D6</color>
+    <color name="monokia_pro_grey">#534E4D</color>
+    <color name="monokia_pro_sky">#6C99BB</color>
+    <color name="monokia_pro_orange">#E87D3E</color>
+    <color name="monokia_pro_green">#B4D273</color>
+    <color name="green">#49871B</color>
 </resources>
